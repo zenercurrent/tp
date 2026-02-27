@@ -31,7 +31,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ### Damian
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/damianngwz.png" width="200px">
 
 [[github](http://github.com/damianngwz.md)] [[portfolio](team/damianngwz.md)]
 
